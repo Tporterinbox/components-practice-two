@@ -15,7 +15,7 @@ function App() {
   return (
     <>
       <div> 
-        <img src="/coffee.jpg" alt="Cup of coffee" width="300" />
+        <img src="https://images.pexels.com/photos/20851618/pexels-photo-20851618.jpeg" alt="Cup of coffee" width="300" />
 
         <div>
           <PersonCard name="Kelly" age={20} occupation="Software Engineer" />
